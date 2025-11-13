@@ -37,8 +37,10 @@ Bem-vindo à **Calculadora Moderna - FURIOSOFNIGHT**! Este projeto implementa um
 ## 🌐 Acesso Online
 A calculadora está hospedada no GitHub Pages! Acesse:
 ```
-https://seu-username.github.io/calculadora-moderna
+https://furiousofnightgames.github.io/calculadora-moderna/
 ```
+
+**👉 [Clique aqui para testar a calculadora ao vivo!](https://furiousofnightgames.github.io/calculadora-moderna/)**
 
 ## 💻 Instalação e Execução Local
 Para executar o projeto no seu ambiente local, siga:
